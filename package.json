@@ -1,10 +1,14 @@
 {
   "name": "spa-heroku-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ready server for demand",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/majid9218/spa-heroku-server"
   },
   "author": "Abdelmajid Abdellatif",
   "license": "MIT",
