@@ -1,4 +1,4 @@
-# Foobar
+# Package
 
 Simple server to deploy your SPA to heroku
 
