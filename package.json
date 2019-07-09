@@ -1,0 +1,14 @@
+{
+  "name": "spa-heroku-server",
+  "version": "1.0.0",
+  "description": "ready server for demand",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abdelmajid Abdellatif",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
